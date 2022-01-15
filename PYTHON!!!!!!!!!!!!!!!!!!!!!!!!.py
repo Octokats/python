@@ -1,0 +1,1 @@
+print("Welcome to Python 3.10!")
